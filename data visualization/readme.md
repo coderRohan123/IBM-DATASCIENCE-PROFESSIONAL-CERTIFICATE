@@ -1,1 +1,1 @@
-This fplder contains all assignments and practice lab
+# This folder contains all assignments and practice lab
